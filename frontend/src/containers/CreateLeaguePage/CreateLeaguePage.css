@@ -1,0 +1,19 @@
+.CreateLeague__back-button {
+  left: 0.5rem;
+  top: 1rem;
+}
+
+.CreateLeague__div-container {
+  background-color: #f5dfbb;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.CreateLeague__grid-container {
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,19 @@
+.Header__div-container {
+  background-color: #f5dfbb;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.Header__grid-container {
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Header__typo-body1 {
+  color: "#ffab91";
+  word-wrap: break-all;
+}
